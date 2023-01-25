@@ -1,0 +1,15 @@
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/bin/Debug/net7.0/Reflection-Exercicio
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/bin/Debug/net7.0/Reflection-Exercicio.deps.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/bin/Debug/net7.0/Reflection-Exercicio.runtimeconfig.json
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/bin/Debug/net7.0/Reflection-Exercicio.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/bin/Debug/net7.0/Reflection-Exercicio.pdb
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.csproj.AssemblyReference.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.AssemblyInfoInputs.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.AssemblyInfo.cs
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/refint/Reflection-Exercicio.dll
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.pdb
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/Reflection-Exercicio.genruntimeconfig.cache
+/home/gabriel/Documents/Trainee - Credit Suisse 2022/Curso/POO 2/Reflection-Exercicio/obj/Debug/net7.0/ref/Reflection-Exercicio.dll
